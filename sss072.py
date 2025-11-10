@@ -10,7 +10,7 @@ total = s1 + s2 + s3 + s4 + s5
 average = total / 5
 
 # Determine grade based on average
-if average >= 90
+if average >= 90:
     grade = 'A'
 elif average >= 80:
     grade = 'B'
